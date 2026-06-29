@@ -1,0 +1,11 @@
+# Tableau temporary files
+
+*.twb~
+
+*.tmp
+
+Thumbs.db
+
+.DS_Store
+
+.vscode/
