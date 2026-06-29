@@ -162,7 +162,7 @@ Identify products and categories contributing most to company profitability.
 
 **Dashboard Screenshot**
 
-![Loading...](https://drive.google.com/file/d/1DhR4lLWCN4y7-JFA92gB-NposqDQ-pYw/view?usp=sharing)
+![Loading...](screenshots/Dashboard2.png)
 
 ---
 
@@ -183,7 +183,7 @@ Understand customer behavior, regional performance, shipping methods and return 
 
 **Dashboard Screenshot**
 
-![Loading...](https://drive.google.com/file/d/1FndLJJxeL-T29nhoZbkJW0UKfkgoKxp_/view?usp=sharing)
+![Loading...](screenshots/Dashboard3.png)
 
 ---
 
@@ -200,10 +200,10 @@ The Tableau Story presents the dashboards as a business presentation.
 
 **Story Screenshots**
 
-![Loading...](https://drive.google.com/file/d/1yDRTXMAqzxbXTp6S4_jJ3QXJ2UXvXlxc/view?usp=sharing)
-![Loading...](https://drive.google.com/file/d/1jcIW_zRgXQ5bhIOBH-O2zVwPj9-ct9BP/view?usp=sharing)
-![Loading...](https://drive.google.com/file/d/1e-PFPtfdU8qrAM5zey1qkxaiRmKT_KUO/view?usp=sharing)
-![Loading...](https://drive.google.com/file/d/1q9UUd4sbpwGvDrBa-htxg6-dgnouUGDG/view?usp=sharing)
+![Loading...](screenshots/Story1.png)
+![Loading...](screenshots/Story2.png)
+![Loading...](screenshots/Story3.png)
+![Loading...](screenshots/Story4.png)
 
 ---
 
