@@ -142,7 +142,7 @@ Provide management with a high-level overview of business performance.
 
 **Dashboard Screenshot**
 
-![Loading...](https://drive.google.com/file/d/15prkl2EMKUmcLNWeENhKKUge7J7Entyt/view?usp=sharing)
+![Loading...](screenshots/Dashboard1.png)
 
 ---
 
